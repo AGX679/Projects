@@ -1,0 +1,7 @@
+6271	Tailpipe
+6754	Left Door Handle
+8621	Differential
+8983	Horn
+7172	Dome Light
+7571	Windshield
+8300	Front Bumper

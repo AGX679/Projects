@@ -1,0 +1,5 @@
+9467	Left Carpet
+8859	Right Door Handle
+9617	Dome Light
+6427	Left Mirror
+8136	Rearview Mirror

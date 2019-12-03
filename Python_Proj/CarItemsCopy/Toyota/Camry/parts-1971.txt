@@ -1,0 +1,7 @@
+9205	Left Mirror
+9249	Right Seat
+9578	Front Bumper
+9475	Differential
+7058	Engine Air Filter
+9229	Windshield
+6750	Left Carpet

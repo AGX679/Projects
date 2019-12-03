@@ -1,0 +1,7 @@
+6400	Right Carpet
+8732	Rear Bumper
+6675	Glove Box Door
+9730	Muffler
+7017	Differential
+7714	Taillight
+7710	Left Door Handle

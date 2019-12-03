@@ -1,0 +1,3 @@
+6308	Taillight
+9708	Dome Light
+6865	Hood

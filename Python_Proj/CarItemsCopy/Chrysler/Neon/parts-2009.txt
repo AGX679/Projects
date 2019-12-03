@@ -1,0 +1,6 @@
+6086	Right Door
+9531	Right Carpet
+9043	Hood
+9400	Left Door
+7094	Gas Cap
+6090	Left Mirror

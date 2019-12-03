@@ -1,0 +1,5 @@
+7314	Gas Cap
+7134	Right Door Handle
+6463	Left Door Handle
+9428	Dip Stick
+8242	Steering Wheel

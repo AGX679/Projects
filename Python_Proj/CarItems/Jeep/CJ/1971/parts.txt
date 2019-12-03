@@ -1,0 +1,7 @@
+8604	Right Seat
+9906	Glove Box Door
+7131	Spark Plug
+9117	Left Mirror
+9788	Right Mirror
+7109	Transmission
+6084	Radiator

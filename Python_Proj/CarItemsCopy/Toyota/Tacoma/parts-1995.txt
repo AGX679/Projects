@@ -1,0 +1,4 @@
+6714	Headlight
+7367	Dome Light
+9525	Front Bumper
+7289	Taillight

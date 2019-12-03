@@ -1,0 +1,5 @@
+8744	Glove Box Door
+6569	Left Carpet
+6936	Left Mirror
+9343	Radiator
+7530	Headlight

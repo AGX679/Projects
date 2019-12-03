@@ -1,0 +1,3 @@
+8314	Right Seat
+8670	Left Door
+8969	Right Door Handle

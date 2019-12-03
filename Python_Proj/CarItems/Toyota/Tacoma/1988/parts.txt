@@ -1,0 +1,4 @@
+6062	Right Mirror
+8227	Universal Joint
+7115	Left Seat
+9107	Gas Cap

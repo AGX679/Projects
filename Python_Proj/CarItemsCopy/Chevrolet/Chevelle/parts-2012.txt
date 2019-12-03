@@ -1,0 +1,6 @@
+8104	Tailpipe
+9643	Left Seat
+8239	Engine Air Filter
+6845	Left Mirror
+9294	Rearview Mirror
+8898	Transmission

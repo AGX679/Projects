@@ -1,0 +1,7 @@
+6386	Timing Belt
+7907	Muffler
+8359	Taillight
+8428	Dome Light
+6006	Front Bumper
+9413	Horn
+6531	Left Mirror

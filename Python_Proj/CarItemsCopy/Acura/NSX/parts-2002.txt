@@ -1,0 +1,7 @@
+6724	Gas Cap
+6500	Rearview Mirror
+8831	Hood
+8837	Universal Joint
+7251	Engine Air Filter
+6197	Steering Wheel
+6825	Transmission

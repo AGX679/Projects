@@ -1,0 +1,5 @@
+9192	Left Mirror
+8809	Dip Stick
+6396	Left Seat
+7157	Tailpipe
+7595	Steering Wheel

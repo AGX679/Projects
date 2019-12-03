@@ -1,0 +1,5 @@
+6097	Right Door Handle
+9558	Gas Cap
+8343	Steering Wheel
+9118	Spark Plug
+8944	Left Carpet

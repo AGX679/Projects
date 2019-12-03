@@ -1,0 +1,7 @@
+6458	Windshield
+9223	Hood
+8379	Headlight
+9796	Engine Air Filter
+9332	Radiator
+9282	Differential
+8644	Right Carpet

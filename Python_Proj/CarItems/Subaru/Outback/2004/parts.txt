@@ -1,0 +1,4 @@
+7246	Radiator
+7399	Left Carpet
+7391	Steering Wheel
+8956	Right Door

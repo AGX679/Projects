@@ -1,0 +1,7 @@
+9024	Left Seat
+6725	Left Door
+8955	Glove Box Door
+7227	Dome Light
+7940	Rear Bumper
+9138	Left Door Handle
+8777	Dip Stick

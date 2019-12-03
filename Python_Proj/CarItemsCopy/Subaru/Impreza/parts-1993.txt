@@ -1,0 +1,7 @@
+6483	Horn
+9693	Windshield
+8512	Tailpipe
+8935	Radiator
+6910	Glove Box Door
+8596	Left Carpet
+8253	Left Door

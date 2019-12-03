@@ -1,0 +1,6 @@
+9519	Windshield
+7365	Front Bumper
+6672	Dome Light
+6023	Horn
+6650	Differential
+9896	Rear Bumper

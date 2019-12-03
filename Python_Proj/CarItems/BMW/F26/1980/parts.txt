@@ -1,0 +1,6 @@
+9966	Left Carpet
+9120	Steering Wheel
+7694	Radiator
+7935	Front Bumper
+9725	Right Carpet
+7953	Right Seat

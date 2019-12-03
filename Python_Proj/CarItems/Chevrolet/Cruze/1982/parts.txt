@@ -1,0 +1,6 @@
+6295	Right Seat
+7674	Transmission
+8840	Left Seat
+9094	Spark Plug
+9447	Headlight
+7967	Timing Belt

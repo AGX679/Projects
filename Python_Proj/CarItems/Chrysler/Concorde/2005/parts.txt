@@ -1,0 +1,4 @@
+6605	Spark Plug
+7023	Right Mirror
+7546	Right Door Handle
+9748	Steering Wheel

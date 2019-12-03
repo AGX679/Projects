@@ -1,0 +1,3 @@
+6913	Right Door
+9151	Dip Stick
+8348	Left Mirror

@@ -1,0 +1,5 @@
+6979	Horn
+9685	Glove Box Door
+9843	Left Mirror
+7167	Left Door Handle
+9665	Right Carpet

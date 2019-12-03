@@ -1,0 +1,7 @@
+6107	Dip Stick
+7813	Right Mirror
+6784	Left Carpet
+6433	Rearview Mirror
+9422	Taillight
+8913	Left Door Handle
+6903	Rear Bumper

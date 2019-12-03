@@ -1,0 +1,4 @@
+7596	Steering Wheel
+7791	Gas Cap
+6947	Radiator
+9389	Dome Light

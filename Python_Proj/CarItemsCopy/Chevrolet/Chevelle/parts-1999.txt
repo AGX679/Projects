@@ -1,0 +1,5 @@
+9068	Spark Plug
+8618	Universal Joint
+7849	Radiator
+8726	Tailpipe
+9917	Right Seat

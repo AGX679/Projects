@@ -1,0 +1,7 @@
+9243	Hood
+7591	Right Door
+9136	Rear Bumper
+6619	Horn
+6943	Right Seat
+7604	Tailpipe
+7909	Transmission

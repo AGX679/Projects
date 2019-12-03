@@ -1,0 +1,6 @@
+7455	Right Door
+9895	Right Mirror
+8352	Dome Light
+7353	Windshield
+6011	Left Door Handle
+7620	Right Seat

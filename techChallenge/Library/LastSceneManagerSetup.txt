@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Free LowPoly Forest Nature Pack/Demo/demo_scene.unity
+  isLoaded: 1
+  isActive: 1

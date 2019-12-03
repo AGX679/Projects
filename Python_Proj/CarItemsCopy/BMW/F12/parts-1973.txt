@@ -1,0 +1,5 @@
+6303	Gas Cap
+9671	Dome Light
+9052	Steering Wheel
+6906	Hood
+8713	Left Door

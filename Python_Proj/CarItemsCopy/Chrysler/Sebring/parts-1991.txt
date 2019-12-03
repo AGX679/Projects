@@ -1,0 +1,7 @@
+8050	Left Seat
+8532	Right Door
+6793	Right Door Handle
+8864	Transmission
+7820	Steering Wheel
+6446	Radiator
+6627	Gas Cap

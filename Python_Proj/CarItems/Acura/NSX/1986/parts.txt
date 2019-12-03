@@ -1,0 +1,7 @@
+6269	Oil Filter
+7005	Muffler
+8238	Right Door
+8405	Right Carpet
+9836	Windshield
+7118	Gas Cap
+8171	Spark Plug

@@ -1,0 +1,6 @@
+6347	Dome Light
+8857	Right Door
+6898	Left Door
+9961	Hood
+8761	Glove Box Door
+8884	Right Mirror

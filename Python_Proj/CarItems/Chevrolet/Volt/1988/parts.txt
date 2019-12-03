@@ -1,0 +1,7 @@
+6272	Transmission
+8832	Dip Stick
+6219	Hood
+7036	Steering Wheel
+6327	Left Mirror
+7729	Right Door
+6092	Rear Bumper

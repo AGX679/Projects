@@ -1,0 +1,7 @@
+7724	Rearview Mirror
+8848	Dome Light
+9022	Front Bumper
+6984	Headlight
+8501	Transmission
+6539	Left Door
+7889	Left Mirror
